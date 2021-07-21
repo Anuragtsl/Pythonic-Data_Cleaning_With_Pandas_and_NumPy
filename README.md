@@ -2,7 +2,7 @@
 
 I have done Data Cleaning on three different datasets.
 
-In this I've leverage Python’s Pandas and NumPy libraries to clean data.
+In this I've used Python’s Pandas and NumPy libraries to clean data.
 
 I've used Jupyter Notebook {https://jupyter.org/} for coding!
 
